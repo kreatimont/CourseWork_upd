@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>4.png</file>
+        <file>308456.png</file>
+        <file>application-x-theme_2158.png</file>
+        <file>astronaut-512.png</file>
+        <file>Delete_Row-.png</file>
+        <file>edit_property.png</file>
+        <file>editing-delete-icon.png</file>
+        <file>featured3.jpg</file>
+        <file>galaxy_v5-512.png</file>
+        <file>htc-one-m8-one-m8-m8-sense-6-6920.jpg</file>
+        <file>icon-solarsystem.png</file>
+        <file>last-chance-zveda-galaktika.jpg</file>
+        <file>Moon-512.png</file>
+        <file>orbit-512.png</file>
+        <file>planeta-sputnik-kosmos-zvezdy.jpg</file>
+        <file>preview1-f.png</file>
+        <file>prostory-vselennoy-planety.jpg</file>
+        <file>res.qrc</file>
+        <file>save_all.png</file>
+        <file>sputnik-satellite-512.png</file>
+        <file>tumblr_static_moon-icon.png</file>
+        <file>universe-128.png</file>
+        <file>Users-Exit-icon.png</file>
+        <file>w256h2561339195838Open256x256.png</file>
+        <file>w512h5121390727880addlink512.png</file>
+        <file>w512h5121390727886addlist512.png</file>
+        <file>wallpaper-1950559.jpg</file>
+        <file>skymap_source.png</file>
+        <file>qtdark.qss</file>
+        <file>font.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>

@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resss/4.png</file>
+        <file>resss/w256h2561339195838Open256x256.png</file>
+        <file>resss/save_all.png</file>
+        <file>resss/application-x-theme_2158.png</file>
+        <file>resss/w512h5121390727886addlist512.png</file>
+        <file>resss/308456.png</file>
+        <file>resss/w512h5121390727880addlink512.png</file>
+        <file>resss/edit_property.png</file>
+        <file>resss/icon-solarsystem.png</file>
+        <file>resss/preview1-f.png</file>
+        <file>resss/sputnik-satellite-512.png</file>
+        <file>resss/tumblr_static_moon-icon.png</file>
+        <file>resss/featured3.jpg</file>
+        <file>resss/Delete_Row-.png</file>
+        <file>resss/editing-delete-icon.png</file>
+        <file>resss/Users-Exit-icon.png</file>
+        <file>resss/wallpaper-1950559.jpg</file>
+        <file>resss/prostory-vselennoy-planety.jpg</file>
+        <file>resss/orbit-512.png</file>
+        <file>resss/astronaut-512.png</file>
+        <file>resss/galaxy_v5-512.png</file>
+        <file>resss/universe-128.png</file>
+    </qresource>
+</RCC>
