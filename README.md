@@ -1,2 +1,2 @@
-# CourseWork_upd
-Qt project with GUI(info-sys Space)
+# CourseWork
+Qt GUI project
